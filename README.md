@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaberTooth1034
+- 👋 Hi, I’m @SaberTooth1034 aka Saumya S.
 - 👀 I’m interested in Data Science and Data Analytics
 - 🌱 I’m currently learning Data Visualisation and Cloud Computing Architecture
 - 💞️ I’m looking to collaborate on my Data Science Projects
